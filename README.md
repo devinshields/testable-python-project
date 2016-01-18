@@ -1,4 +1,4 @@
-# testable_python_project
+# testable-python-project
 a minimal python project to provide dummy code and tests to verify CICD automation is working
 
 a mix of working and broken unit tests
